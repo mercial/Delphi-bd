@@ -1,0 +1,43 @@
+unit MainUnit;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.Grids, Vcl.DBGrids,
+  Data.DB, Data.Win.ADODB, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    DBGrid1: TDBGrid;
+    MainMenu1: TMainMenu;
+    Button1: TButton;
+    Button2: TButton;
+    Button3: TButton;
+    N1: TMenuItem;
+    N2: TMenuItem;
+    procedure N2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+uses DataModuleUnit, AddUnit;
+
+
+
+
+procedure TForm1.N2Click(Sender: TObject);
+begin
+      AddUnit.Form2.Show;
+end;
+
+end.

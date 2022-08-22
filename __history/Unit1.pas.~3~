@@ -1,0 +1,32 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.Grids, Vcl.DBGrids,
+  Data.DB, Data.Win.ADODB;
+
+type
+  TForm1 = class(TForm)
+    DBGrid1: TDBGrid;
+    MainMenu1: TMainMenu;
+    ADOConnection1: TADOConnection;
+    DataSource1: TDataSource;
+    ADOTable1: TADOTable;
+    procedure DataSource1DataChange(Sender: TObject; Field: TField);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+
+end.

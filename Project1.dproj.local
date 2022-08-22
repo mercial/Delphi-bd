@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.941,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Project1.dproj=C:\Users\vladislav\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit2.dfm=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\DataModuleUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Project1.dproj=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit1.pas=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit1.pas=C:\Users\vladislav\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit2.pas=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\DataModuleUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit1.dfm=C:\Users\vladislav\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit1.dfm=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,=C:\Users\vladislav\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,=C:\Users\vladislav\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit2.pas</Transaction>
+    <Transaction>2022.08.22 09:44:11.371,=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit2.pas</Transaction>
+    <Transaction>2022.08.22 09:53:56.700,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\AddUnit.pas=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit2.pas</Transaction>
+    <Transaction>2022.08.22 09:53:56.700,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\AddUnit.dfm=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit2.dfm</Transaction>
+    <Transaction>2022.08.22 15:06:46.019,=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit3.pas</Transaction>
+    <Transaction>2022.08.22 15:10:49.904,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\DeleteUnit.pas=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit3.pas</Transaction>
+    <Transaction>2022.08.22 15:10:49.904,C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\DeleteUnit.dfm=C:\Users\vladislav\Documents\RAD Studio\Projects\spravochnik_crud\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

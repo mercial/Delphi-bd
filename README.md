@@ -18,5 +18,5 @@
 <br>
 <br>
 <center>
-<b> Использование компонента Fast Report</b> (frxreport, frxDBDataset, frxPreview) </center>
+<b> Использование компонента Fast Report</b> (frxreport, frxDBDataset, frxPreview) 
 ![scr3](https://user-images.githubusercontent.com/16239306/185895963-c52fe372-8feb-4fc9-b934-2157ca273e37.png)
